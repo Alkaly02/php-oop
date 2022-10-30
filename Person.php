@@ -13,12 +13,10 @@ class Person {
   }
 
   public function get_person(){
-
     return $this;
   }
 
   public function get_full_info(){
-
     return "You are $this->first_name $this->last_name and you are $this->age";
   }
 
