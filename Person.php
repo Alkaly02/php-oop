@@ -24,7 +24,6 @@ class Person {
     $this->first_name = $name;
   }
 
-  
 }
 
 $alkaly = new Person("ALkaly", "BADJI", 20);
