@@ -41,6 +41,8 @@ class BankAccount {
 
 $alkaly_account = new BankAccount(25647);
 
+$alkaly_account->balance = 658889;
+
 $alkaly_account->deposit(20000);
 $alkaly_account->deposit(5000);
 
