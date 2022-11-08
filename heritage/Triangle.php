@@ -1,6 +1,6 @@
 <?php
 
-class Triangle{
+class Triangle extends Form{
 
   public $base = 5;
   public $hauteur = 10;

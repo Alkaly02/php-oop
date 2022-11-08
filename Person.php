@@ -32,7 +32,7 @@ $alkaly->set_name("Kaba");
 
 $person = $alkaly->get_person();
 
-echo $alkaly->get_full_info();
+// echo $alkaly->get_full_info();
 
 // print_r($person);
 

@@ -1,5 +1,6 @@
 <?php
 
+require './Form.php';
 require './Carre.php';
 require './Triangle.php';
 
