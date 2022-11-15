@@ -18,3 +18,4 @@ class GoViral extends Funny{
 }
 
 (new GoViral("This ino", "Viro joke"))->get_viral_joke();
+// (new GoViral("This ino", "Viro joke"))->get_joke();
